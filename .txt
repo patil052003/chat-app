@@ -1,0 +1,7 @@
+......Message model ....
+ sender ID
+ receiver ID //this three we have crate using schema
+ Message
+
+ id -generated  by mongodb
+ 
